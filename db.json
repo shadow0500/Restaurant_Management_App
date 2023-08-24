@@ -1,0 +1,78 @@
+{
+    "user": [
+      {
+        "name": "shadmaan",
+        "email": "shadk2601@gmail.com",
+        "password": "1234567",
+        "id": 1
+      },
+      {
+        "name": "shadmaan",
+        "email": "shadk2601@gmail.com",
+        "password": "1234567",
+        "id": 2
+      },
+      {
+        "name": "shadmaan",
+        "email": "shadk2601@gmail.com",
+        "password": "1234567",
+        "id": 3
+      },
+      {
+        "name": "Bruce",
+        "email": "bruce@test.com",
+        "password": "bruce@113",
+        "id": 4
+      },
+      {
+        "name": "Sana",
+        "email": "sanak200@gmail.com",
+        "password": "sana@1234",
+        "id": 5
+      },
+      {
+        "name": "Sami",
+        "email": "sami@gmail.com",
+        "password": "sami@1234",
+        "id": 6
+      },
+      {
+        "name": "Talib",
+        "email": "talib@gmail.com",
+        "password": "talib@123",
+        "id": 7
+      },
+      {
+        "name": "sheikh",
+        "email": "sheikh@gmail.com",
+        "password": "12345678",
+        "id": 8
+      }
+    ],
+    "restaurant": [
+      {
+        "name": "Burger King",
+        "address": "Hazratganj",
+        "contact": "9876543",
+        "id": 3
+      },
+      {
+        "name": "hola",
+        "address": "lucknow",
+        "contact": "1276543323",
+        "id": 4
+      },
+      {
+        "name": "Pizza Cave",
+        "address": "Gomtinagar, Lucknow",
+        "contact": "8090974994",
+        "id": 5
+      },
+      {
+        "name": "Om sweets",
+        "address": "Lucknow,India",
+        "contact": "7777",
+        "id": 6
+      }
+    ]
+  }
